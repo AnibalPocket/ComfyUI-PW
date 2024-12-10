@@ -1,0 +1,66 @@
+[submodule "custom_nodes/rgthree-comfy"]
+	path = custom_nodes/rgthree-comfy
+	url = https://github.com/rgthree/rgthree-comfy.git
+[submodule "custom_nodes/ComfyUI-Manager"]
+	path = custom_nodes/ComfyUI-Manager
+	url = https://github.com/ltdrdata/ComfyUI-Manager.git
+[submodule "custom_nodes/ComfyUI_IPAdapter_plus"]
+	path = custom_nodes/ComfyUI_IPAdapter_plus
+	url = https://github.com/cubiq/ComfyUI_IPAdapter_plus.git
+[submodule "custom_nodes/comfyui-inpaint-nodes"]
+	path = custom_nodes/comfyui-inpaint-nodes
+	url = https://github.com/Acly/comfyui-inpaint-nodes.git
+[submodule "custom_nodes/ComfyUI_essentials"]
+	path = custom_nodes/ComfyUI_essentials
+	url = https://github.com/cubiq/ComfyUI_essentials.git
+[submodule "custom_nodes/ComfyUI-IC-Light"]
+	path = custom_nodes/ComfyUI-IC-Light
+	url = https://github.com/kijai/ComfyUI-IC-Light.git
+[submodule "custom_nodes/ComfyUI-IC-Light-Native"]
+	path = custom_nodes/ComfyUI-IC-Light-Native
+	url = https://github.com/huchenlei/ComfyUI-IC-Light-Native.git
+[submodule "custom_nodes/ComfyUI-ResAdapter"]
+	path = custom_nodes/ComfyUI-ResAdapter
+	url = https://github.com/jiaxiangc/ComfyUI-ResAdapter.git
+[submodule "custom_nodes/ComfyUI-Inspyrenet-Rembg"]
+	path = custom_nodes/ComfyUI-Inspyrenet-Rembg
+	url = https://github.com/john-mnz/ComfyUI-Inspyrenet-Rembg.git
+[submodule "custom_nodes/ComfyUI-Impact-Pack"]
+	path = custom_nodes/ComfyUI-Impact-Pack
+	url = https://github.com/ltdrdata/ComfyUI-Impact-Pack.git
+[submodule "custom_nodes/was-node-suite-comfyui"]
+	path = custom_nodes/was-node-suite-comfyui
+	url = https://github.com/WASasquatch/was-node-suite-comfyui.git
+[submodule "custom_nodes/ComfyUI_ExtraModels"]
+	path = custom_nodes/ComfyUI_ExtraModels
+	url = https://github.com/city96/ComfyUI_ExtraModels.git
+[submodule "custom_nodes/ComfyUI-Custom-Scripts"]
+	path = custom_nodes/ComfyUI-Custom-Scripts
+	url = https://github.com/pythongosssss/ComfyUI-Custom-Scripts.git
+[submodule "custom_nodes/ComfyUI-KJNodes"]
+	path = custom_nodes/ComfyUI-KJNodes
+	url = https://github.com/kijai/ComfyUI-KJNodes.git
+[submodule "custom_nodes/ComfyUI-Florence2"]
+	path = custom_nodes/ComfyUI-Florence2
+	url = https://github.com/kijai/ComfyUI-Florence2.git
+[submodule "custom_nodes/ComfyUI_Primere_Nodes"]
+	path = custom_nodes/ComfyUI_Primere_Nodes
+	url = https://github.com/CosmicLaca/ComfyUI_Primere_Nodes.git
+[submodule "custom_nodes/ComfyUI-Crystools"]
+	path = custom_nodes/ComfyUI-Crystools
+	url = https://github.com/crystian/ComfyUI-Crystools.git
+[submodule "custom_nodes/ComfyUI-Universal-Styler"]
+	path = custom_nodes/ComfyUI-Universal-Styler
+	url = https://github.com/KoreTeknology/ComfyUI-Universal-Styler.git
+[submodule "custom_nodes/comfyui-tensorops"]
+	path = custom_nodes/comfyui-tensorops
+	url = https://github.com/un-seen/comfyui-tensorops.git
+[submodule "custom_nodes/ComfyUI-UX-Nodes"]
+	path = custom_nodes/ComfyUI-UX-Nodes
+	url = https://github.com/Anibaaal/ComfyUI-UX-Nodes.git
+[submodule "custom_nodes/comfyui_controlnet_aux"]
+	path = custom_nodes/comfyui_controlnet_aux
+	url = https://github.com/Fannovel16/comfyui_controlnet_aux.git
+[submodule "custom_nodes/Comfy_KepListStuff"]
+	path = custom_nodes/Comfy_KepListStuff
+	url = https://github.com/M1kep/Comfy_KepListStuff.git
