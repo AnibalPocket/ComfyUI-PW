@@ -64,3 +64,48 @@
 [submodule "custom_nodes/Comfy_KepListStuff"]
 	path = custom_nodes/Comfy_KepListStuff
 	url = https://github.com/M1kep/Comfy_KepListStuff.git
+[submodule "custom_nodes/ComfyUI-Inspire-Pack"]
+	path = custom_nodes/ComfyUI-Inspire-Pack
+	url = https://github.com/ltdrdata/ComfyUI-Inspire-Pack.git
+[submodule "custom_nodes/ComfyUI-post-processing-nodes"]
+	path = custom_nodes/ComfyUI-post-processing-nodes
+	url = https://github.com/EllangoK/ComfyUI-post-processing-nodes.git
+[submodule "custom_nodes/ComfyUI_Comfyroll_CustomNodes"]
+	path = custom_nodes/ComfyUI_Comfyroll_CustomNodes
+	url = https://github.com/Suzie1/ComfyUI_Comfyroll_CustomNodes.git
+[submodule "custom_nodes/ComfyUI_FizzNodes"]
+	path = custom_nodes/ComfyUI_FizzNodes
+	url = https://github.com/FizzleDorf/ComfyUI_FizzNodes.git
+[submodule "custom_nodes/ComfyUI_SimpleMath"]
+	path = custom_nodes/ComfyUI_SimpleMath
+	url = https://github.com/cubiq/ComfyUI_SimpleMath.git
+[submodule "custom_nodes/ComfyMath"]
+	path = custom_nodes/ComfyMath
+	url = https://github.com/evanspearman/ComfyMath.git
+[submodule "custom_nodes/ComfyUI-Advanced-ControlNet"]
+	path = custom_nodes/ComfyUI-Advanced-ControlNet
+	url = https://github.com/Kosinkadink/ComfyUI-Advanced-ControlNet.git
+[submodule "custom_nodes/ComfyUI-DepthAnythingV2"]
+	path = custom_nodes/ComfyUI-DepthAnythingV2
+	url = https://github.com/kijai/ComfyUI-DepthAnythingV2.git
+[submodule "custom_nodes/CrasHUtils"]
+	path = custom_nodes/CrasHUtils
+	url = https://github.com/chrish-slingshot/CrasHUtils.git
+[submodule "custom_nodes/comfyui-mixlab-nodes"]
+	path = custom_nodes/comfyui-mixlab-nodes
+	url = https://github.com/shadowcz007/comfyui-mixlab-nodes.git
+[submodule "custom_nodes/ComfyUI-off-suite"]
+	path = custom_nodes/ComfyUI-off-suite
+	url = https://github.com/Off-Live/ComfyUI-off-suite.git
+[submodule "custom_nodes/ComfyUI-LLMs"]
+	path = custom_nodes/ComfyUI-LLMs
+	url = https://github.com/leoleelxh/ComfyUI-LLMs.git
+[submodule "custom_nodes/ComfyUI-Inpaint-CropAndStitch"]
+	path = custom_nodes/ComfyUI-Inpaint-CropAndStitch
+	url = https://github.com/lquesada/ComfyUI-Inpaint-CropAndStitch.git
+[submodule "custom_nodes/ComfyUI-Helper-Nodes"]
+	path = custom_nodes/ComfyUI-Helper-Nodes
+	url = https://github.com/teward/ComfyUI-Helper-Nodes.git
+[submodule "custom_nodes/Comfyui_joy-caption-alpha-two"]
+	path = custom_nodes/Comfyui_joy-caption-alpha-two
+	url = https://github.com/tungdop2/Comfyui_joy-caption-alpha-two.git
